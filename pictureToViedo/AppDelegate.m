@@ -20,21 +20,21 @@
     return YES;
 }
 
-
-#pragma mark - UISceneSession lifecycle
-
-
-- (UISceneConfiguration *)application:(UIApplication *)application configurationForConnectingSceneSession:(UISceneSession *)connectingSceneSession options:(UISceneConnectionOptions *)options {
-    // Called when a new scene session is being created.
-    // Use this method to select a configuration to create the new scene with.
-    return [[UISceneConfiguration alloc] initWithName:@"Default Configuration" sessionRole:connectingSceneSession.role];
+#pragma mark - 生命周期
+- (void)applicationWillEnterForeground:(UIApplication *)application{
+    NSLog(@"状态** 将要进入前台");
 }
-
-
-- (void)application:(UIApplication *)application didDiscardSceneSessions:(NSSet<UISceneSession *> *)sceneSessions {
-    // Called when the user discards a scene session.
-    // If any sessions were discarded while the application was not running, this will be called shortly after application:didFinishLaunchingWithOptions.
-    // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
+- (void)applicationDidBecomeActive:(UIApplication *)application{
+    NSLog(@"状态** 已经活跃");
+}
+- (void)applicationWillResignActive:(UIApplication *)application{
+    NSLog(@"状态** 将要进入后台");
+}
+- (void)applicationDidEnterBackground:(UIApplication *)application{
+    NSLog(@"状态** 已经进入后台");
+}
+- (void)applicationWillTerminate:(UIApplication *)application{
+    NSLog(@"状态** 将要退出程序");
 }
 
 
