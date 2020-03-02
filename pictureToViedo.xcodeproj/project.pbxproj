@@ -15,6 +15,58 @@
 		72857399240CF73C00A4A6DF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 72857398240CF73C00A4A6DF /* main.m */; };
 		728573A3240CF73C00A4A6DF /* pictureToViedoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573A2240CF73C00A4A6DF /* pictureToViedoTests.m */; };
 		728573AE240CF73C00A4A6DF /* pictureToViedoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573AD240CF73C00A4A6DF /* pictureToViedoUITests.m */; };
+		728573C0240D117600A4A6DF /* UIImage+scaledSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573BF240D117600A4A6DF /* UIImage+scaledSize.m */; };
+		728573C3240D11CE00A4A6DF /* MergeVideoWithMusic.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573C2240D11CE00A4A6DF /* MergeVideoWithMusic.m */; };
+		728573C9240D12BB00A4A6DF /* ImagesToVideo.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573C8240D12BB00A4A6DF /* ImagesToVideo.m */; };
+		728573CE240D14CE00A4A6DF /* 一个人的冬天.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 728573CD240D14CE00A4A6DF /* 一个人的冬天.mp3 */; };
+		728573EB240D16A100A4A6DF /* TZImageCropManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573D2240D16A100A4A6DF /* TZImageCropManager.m */; };
+		728573EC240D16A100A4A6DF /* TZAssetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573D4240D16A100A4A6DF /* TZAssetCell.m */; };
+		728573ED240D16A100A4A6DF /* TZVideoPlayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573D5240D16A100A4A6DF /* TZVideoPlayerController.m */; };
+		728573EE240D16A100A4A6DF /* TZAssetModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573D6240D16A100A4A6DF /* TZAssetModel.m */; };
+		728573EF240D16A100A4A6DF /* NSBundle+TZImagePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573D7240D16A100A4A6DF /* NSBundle+TZImagePicker.m */; };
+		728573F0240D16A100A4A6DF /* TZPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573DA240D16A100A4A6DF /* TZPhotoPreviewController.m */; };
+		728573F1240D16A100A4A6DF /* TZImagePickerController.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 728573DB240D16A100A4A6DF /* TZImagePickerController.bundle */; };
+		728573F2240D16A100A4A6DF /* TZProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573DC240D16A100A4A6DF /* TZProgressView.m */; };
+		728573F3240D16A100A4A6DF /* TZImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573DF240D16A100A4A6DF /* TZImageManager.m */; };
+		728573F4240D16A100A4A6DF /* TZPhotoPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573E1240D16A100A4A6DF /* TZPhotoPickerController.m */; };
+		728573F5240D16A100A4A6DF /* TZPhotoPreviewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573E2240D16A100A4A6DF /* TZPhotoPreviewCell.m */; };
+		728573F6240D16A100A4A6DF /* TZImagePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573E7240D16A100A4A6DF /* TZImagePickerController.m */; };
+		728573F7240D16A100A4A6DF /* TZLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573E8240D16A100A4A6DF /* TZLocationManager.m */; };
+		728573F8240D16A100A4A6DF /* TZGifPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573E9240D16A100A4A6DF /* TZGifPhotoPreviewController.m */; };
+		728573FB240D16E200A4A6DF /* UIView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573FA240D16E200A4A6DF /* UIView+Layout.m */; };
+		72857428240D1D4900A4A6DF /* GLProgressLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 728573FE240D1D4500A4A6DF /* GLProgressLayer.m */; };
+		72857429240D1D4900A4A6DF /* VideoAudioEdit.m in Sources */ = {isa = PBXBuildFile; fileRef = 72857400240D1D4500A4A6DF /* VideoAudioEdit.m */; };
+		7285742A240D1D4900A4A6DF /* GLFolderManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 72857405240D1D4500A4A6DF /* GLFolderManager.m */; };
+		7285742B240D1D4900A4A6DF /* VideoAudioComposition.m in Sources */ = {isa = PBXBuildFile; fileRef = 72857407240D1D4500A4A6DF /* VideoAudioComposition.m */; };
+		7285742C240D1D4900A4A6DF /* AddTextManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 72857408240D1D4500A4A6DF /* AddTextManager.m */; };
+		7285742D240D1D4900A4A6DF /* UIImage+buffer.m in Sources */ = {isa = PBXBuildFile; fileRef = 72857409240D1D4500A4A6DF /* UIImage+buffer.m */; };
+		7285742E240D1D4900A4A6DF /* SrtModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7285740B240D1D4500A4A6DF /* SrtModel.m */; };
+		7285742F240D1D4900A4A6DF /* 4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7285740D240D1D4900A4A6DF /* 4.mp3 */; };
+		72857430240D1D4900A4A6DF /* 1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7285740E240D1D4900A4A6DF /* 1.mp4 */; };
+		72857431240D1D4900A4A6DF /* 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7285740F240D1D4900A4A6DF /* 1.mp3 */; };
+		72857432240D1D4900A4A6DF /* 绵阳@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 72857411240D1D4900A4A6DF /* 绵阳@2x.png */; };
+		72857433240D1D4900A4A6DF /* 老鼠@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 72857412240D1D4900A4A6DF /* 老鼠@2x.png */; };
+		72857434240D1D4900A4A6DF /* 白兔@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 72857413240D1D4900A4A6DF /* 白兔@2x.png */; };
+		72857435240D1D4900A4A6DF /* img9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72857414240D1D4900A4A6DF /* img9.jpg */; };
+		72857436240D1D4900A4A6DF /* img8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72857415240D1D4900A4A6DF /* img8.jpg */; };
+		72857437240D1D4900A4A6DF /* img5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72857416240D1D4900A4A6DF /* img5.jpg */; };
+		72857438240D1D4900A4A6DF /* img4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72857417240D1D4900A4A6DF /* img4.jpg */; };
+		72857439240D1D4900A4A6DF /* img6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72857418240D1D4900A4A6DF /* img6.jpg */; };
+		7285743A240D1D4900A4A6DF /* img7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72857419240D1D4900A4A6DF /* img7.jpg */; };
+		7285743B240D1D4900A4A6DF /* img3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7285741A240D1D4900A4A6DF /* img3.jpg */; };
+		7285743C240D1D4900A4A6DF /* img2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7285741B240D1D4900A4A6DF /* img2.jpg */; };
+		7285743D240D1D4900A4A6DF /* img0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7285741C240D1D4900A4A6DF /* img0.jpg */; };
+		7285743E240D1D4900A4A6DF /* img1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7285741D240D1D4900A4A6DF /* img1.jpg */; };
+		7285743F240D1D4900A4A6DF /* img11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7285741E240D1D4900A4A6DF /* img11.jpg */; };
+		72857440240D1D4900A4A6DF /* img10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7285741F240D1D4900A4A6DF /* img10.jpg */; };
+		72857441240D1D4900A4A6DF /* 2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 72857420240D1D4900A4A6DF /* 2.mp4 */; };
+		72857442240D1D4900A4A6DF /* 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 72857421240D1D4900A4A6DF /* 2.mp3 */; };
+		72857443240D1D4900A4A6DF /* 3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 72857422240D1D4900A4A6DF /* 3.mp3 */; };
+		72857444240D1D4900A4A6DF /* 爱在记忆中找你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 72857423240D1D4900A4A6DF /* 爱在记忆中找你.mp3 */; };
+		72857445240D1D4900A4A6DF /* 大王叫我来巡山.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 72857424240D1D4900A4A6DF /* 大王叫我来巡山.mp4 */; };
+		72857446240D1D4900A4A6DF /* Kim Taylor-I Am You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 72857425240D1D4900A4A6DF /* Kim Taylor-I Am You.mp3 */; };
+		72857447240D1D4900A4A6DF /* piano.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 72857426240D1D4900A4A6DF /* piano.mp4 */; };
+		72857448240D1D4900A4A6DF /* beijing.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 72857427240D1D4900A4A6DF /* beijing.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +103,83 @@
 		728573A9240CF73C00A4A6DF /* pictureToViedoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pictureToViedoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		728573AD240CF73C00A4A6DF /* pictureToViedoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = pictureToViedoUITests.m; sourceTree = "<group>"; };
 		728573AF240CF73C00A4A6DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		728573BE240D117600A4A6DF /* UIImage+scaledSize.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+scaledSize.h"; sourceTree = "<group>"; };
+		728573BF240D117600A4A6DF /* UIImage+scaledSize.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+scaledSize.m"; sourceTree = "<group>"; };
+		728573C1240D11CE00A4A6DF /* MergeVideoWithMusic.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MergeVideoWithMusic.h; sourceTree = "<group>"; };
+		728573C2240D11CE00A4A6DF /* MergeVideoWithMusic.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MergeVideoWithMusic.m; sourceTree = "<group>"; };
+		728573C7240D12BB00A4A6DF /* ImagesToVideo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImagesToVideo.h; sourceTree = "<group>"; };
+		728573C8240D12BB00A4A6DF /* ImagesToVideo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImagesToVideo.m; sourceTree = "<group>"; };
+		728573CD240D14CE00A4A6DF /* 一个人的冬天.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "一个人的冬天.mp3"; sourceTree = "<group>"; };
+		728573D0240D16A100A4A6DF /* TZPhotoPreviewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewCell.h; sourceTree = "<group>"; };
+		728573D1240D16A100A4A6DF /* TZPhotoPickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPickerController.h; sourceTree = "<group>"; };
+		728573D2240D16A100A4A6DF /* TZImageCropManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageCropManager.m; sourceTree = "<group>"; };
+		728573D3240D16A100A4A6DF /* TZImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageManager.h; sourceTree = "<group>"; };
+		728573D4240D16A100A4A6DF /* TZAssetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetCell.m; sourceTree = "<group>"; };
+		728573D5240D16A100A4A6DF /* TZVideoPlayerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZVideoPlayerController.m; sourceTree = "<group>"; };
+		728573D6240D16A100A4A6DF /* TZAssetModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetModel.m; sourceTree = "<group>"; };
+		728573D7240D16A100A4A6DF /* NSBundle+TZImagePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+TZImagePicker.m"; sourceTree = "<group>"; };
+		728573D8240D16A100A4A6DF /* TZLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZLocationManager.h; sourceTree = "<group>"; };
+		728573D9240D16A100A4A6DF /* TZImagePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImagePickerController.h; sourceTree = "<group>"; };
+		728573DA240D16A100A4A6DF /* TZPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewController.m; sourceTree = "<group>"; };
+		728573DB240D16A100A4A6DF /* TZImagePickerController.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = TZImagePickerController.bundle; sourceTree = "<group>"; };
+		728573DC240D16A100A4A6DF /* TZProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZProgressView.m; sourceTree = "<group>"; };
+		728573DD240D16A100A4A6DF /* TZGifPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZGifPhotoPreviewController.h; sourceTree = "<group>"; };
+		728573DE240D16A100A4A6DF /* TZAssetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetCell.h; sourceTree = "<group>"; };
+		728573DF240D16A100A4A6DF /* TZImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageManager.m; sourceTree = "<group>"; };
+		728573E0240D16A100A4A6DF /* TZImageCropManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageCropManager.h; sourceTree = "<group>"; };
+		728573E1240D16A100A4A6DF /* TZPhotoPickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPickerController.m; sourceTree = "<group>"; };
+		728573E2240D16A100A4A6DF /* TZPhotoPreviewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewCell.m; sourceTree = "<group>"; };
+		728573E3240D16A100A4A6DF /* NSBundle+TZImagePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+TZImagePicker.h"; sourceTree = "<group>"; };
+		728573E4240D16A100A4A6DF /* TZAssetModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetModel.h; sourceTree = "<group>"; };
+		728573E5240D16A100A4A6DF /* TZVideoPlayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZVideoPlayerController.h; sourceTree = "<group>"; };
+		728573E6240D16A100A4A6DF /* TZPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewController.h; sourceTree = "<group>"; };
+		728573E7240D16A100A4A6DF /* TZImagePickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImagePickerController.m; sourceTree = "<group>"; };
+		728573E8240D16A100A4A6DF /* TZLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZLocationManager.m; sourceTree = "<group>"; };
+		728573E9240D16A100A4A6DF /* TZGifPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZGifPhotoPreviewController.m; sourceTree = "<group>"; };
+		728573EA240D16A100A4A6DF /* TZProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZProgressView.h; sourceTree = "<group>"; };
+		728573F9240D16E200A4A6DF /* UIView+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Layout.h"; sourceTree = "<group>"; };
+		728573FA240D16E200A4A6DF /* UIView+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Layout.m"; sourceTree = "<group>"; };
+		728573FD240D1D4500A4A6DF /* GLFolderManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLFolderManager.h; sourceTree = "<group>"; };
+		728573FE240D1D4500A4A6DF /* GLProgressLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLProgressLayer.m; sourceTree = "<group>"; };
+		728573FF240D1D4500A4A6DF /* SrtModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SrtModel.h; sourceTree = "<group>"; };
+		72857400240D1D4500A4A6DF /* VideoAudioEdit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoAudioEdit.m; sourceTree = "<group>"; };
+		72857401240D1D4500A4A6DF /* UIImage+buffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+buffer.h"; sourceTree = "<group>"; };
+		72857402240D1D4500A4A6DF /* AddTextManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddTextManager.h; sourceTree = "<group>"; };
+		72857403240D1D4500A4A6DF /* GLVideoConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLVideoConstant.h; sourceTree = "<group>"; };
+		72857404240D1D4500A4A6DF /* VideoAudioComposition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoAudioComposition.h; sourceTree = "<group>"; };
+		72857405240D1D4500A4A6DF /* GLFolderManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLFolderManager.m; sourceTree = "<group>"; };
+		72857406240D1D4500A4A6DF /* GLProgressLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLProgressLayer.h; sourceTree = "<group>"; };
+		72857407240D1D4500A4A6DF /* VideoAudioComposition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoAudioComposition.m; sourceTree = "<group>"; };
+		72857408240D1D4500A4A6DF /* AddTextManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddTextManager.m; sourceTree = "<group>"; };
+		72857409240D1D4500A4A6DF /* UIImage+buffer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+buffer.m"; sourceTree = "<group>"; };
+		7285740A240D1D4500A4A6DF /* VideoAudioEdit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoAudioEdit.h; sourceTree = "<group>"; };
+		7285740B240D1D4500A4A6DF /* SrtModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SrtModel.m; sourceTree = "<group>"; };
+		7285740D240D1D4900A4A6DF /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4.mp3; sourceTree = "<group>"; };
+		7285740E240D1D4900A4A6DF /* 1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1.mp4; sourceTree = "<group>"; };
+		7285740F240D1D4900A4A6DF /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1.mp3; sourceTree = "<group>"; };
+		72857411240D1D4900A4A6DF /* 绵阳@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绵阳@2x.png"; sourceTree = "<group>"; };
+		72857412240D1D4900A4A6DF /* 老鼠@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "老鼠@2x.png"; sourceTree = "<group>"; };
+		72857413240D1D4900A4A6DF /* 白兔@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "白兔@2x.png"; sourceTree = "<group>"; };
+		72857414240D1D4900A4A6DF /* img9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img9.jpg; sourceTree = "<group>"; };
+		72857415240D1D4900A4A6DF /* img8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img8.jpg; sourceTree = "<group>"; };
+		72857416240D1D4900A4A6DF /* img5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img5.jpg; sourceTree = "<group>"; };
+		72857417240D1D4900A4A6DF /* img4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img4.jpg; sourceTree = "<group>"; };
+		72857418240D1D4900A4A6DF /* img6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img6.jpg; sourceTree = "<group>"; };
+		72857419240D1D4900A4A6DF /* img7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img7.jpg; sourceTree = "<group>"; };
+		7285741A240D1D4900A4A6DF /* img3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img3.jpg; sourceTree = "<group>"; };
+		7285741B240D1D4900A4A6DF /* img2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img2.jpg; sourceTree = "<group>"; };
+		7285741C240D1D4900A4A6DF /* img0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img0.jpg; sourceTree = "<group>"; };
+		7285741D240D1D4900A4A6DF /* img1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img1.jpg; sourceTree = "<group>"; };
+		7285741E240D1D4900A4A6DF /* img11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img11.jpg; sourceTree = "<group>"; };
+		7285741F240D1D4900A4A6DF /* img10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img10.jpg; sourceTree = "<group>"; };
+		72857420240D1D4900A4A6DF /* 2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2.mp4; sourceTree = "<group>"; };
+		72857421240D1D4900A4A6DF /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2.mp3; sourceTree = "<group>"; };
+		72857422240D1D4900A4A6DF /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3.mp3; sourceTree = "<group>"; };
+		72857423240D1D4900A4A6DF /* 爱在记忆中找你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "爱在记忆中找你.mp3"; sourceTree = "<group>"; };
+		72857424240D1D4900A4A6DF /* 大王叫我来巡山.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "大王叫我来巡山.mp4"; sourceTree = "<group>"; };
+		72857425240D1D4900A4A6DF /* Kim Taylor-I Am You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kim Taylor-I Am You.mp3"; sourceTree = "<group>"; };
+		72857426240D1D4900A4A6DF /* piano.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = piano.mp4; sourceTree = "<group>"; };
+		72857427240D1D4900A4A6DF /* beijing.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = beijing.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,11 +230,18 @@
 		72857385240CF73900A4A6DF /* pictureToViedo */ = {
 			isa = PBXGroup;
 			children = (
+				728573FC240D1D4500A4A6DF /* Manager */,
+				7285740C240D1D4900A4A6DF /* resource */,
+				728573CF240D16A100A4A6DF /* TZImagePickerController */,
+				728573BC240D115C00A4A6DF /* ImageToVideo */,
+				728573BD240D115C00A4A6DF /* mergeVideoWithMusic */,
+				728573BB240D115C00A4A6DF /* UIImageCategory */,
 				72857386240CF73900A4A6DF /* AppDelegate.h */,
 				72857387240CF73900A4A6DF /* AppDelegate.m */,
 				7285738C240CF73900A4A6DF /* ViewController.h */,
 				7285738D240CF73900A4A6DF /* ViewController.m */,
 				7285738F240CF73900A4A6DF /* Main.storyboard */,
+				728573CD240D14CE00A4A6DF /* 一个人的冬天.mp3 */,
 				72857392240CF73C00A4A6DF /* Assets.xcassets */,
 				72857394240CF73C00A4A6DF /* LaunchScreen.storyboard */,
 				72857397240CF73C00A4A6DF /* Info.plist */,
@@ -130,6 +266,132 @@
 				728573AF240CF73C00A4A6DF /* Info.plist */,
 			);
 			path = pictureToViedoUITests;
+			sourceTree = "<group>";
+		};
+		728573BB240D115C00A4A6DF /* UIImageCategory */ = {
+			isa = PBXGroup;
+			children = (
+				728573BE240D117600A4A6DF /* UIImage+scaledSize.h */,
+				728573BF240D117600A4A6DF /* UIImage+scaledSize.m */,
+			);
+			path = UIImageCategory;
+			sourceTree = "<group>";
+		};
+		728573BC240D115C00A4A6DF /* ImageToVideo */ = {
+			isa = PBXGroup;
+			children = (
+				728573C7240D12BB00A4A6DF /* ImagesToVideo.h */,
+				728573C8240D12BB00A4A6DF /* ImagesToVideo.m */,
+			);
+			path = ImageToVideo;
+			sourceTree = "<group>";
+		};
+		728573BD240D115C00A4A6DF /* mergeVideoWithMusic */ = {
+			isa = PBXGroup;
+			children = (
+				728573C1240D11CE00A4A6DF /* MergeVideoWithMusic.h */,
+				728573C2240D11CE00A4A6DF /* MergeVideoWithMusic.m */,
+			);
+			path = mergeVideoWithMusic;
+			sourceTree = "<group>";
+		};
+		728573CF240D16A100A4A6DF /* TZImagePickerController */ = {
+			isa = PBXGroup;
+			children = (
+				728573F9240D16E200A4A6DF /* UIView+Layout.h */,
+				728573FA240D16E200A4A6DF /* UIView+Layout.m */,
+				728573D0240D16A100A4A6DF /* TZPhotoPreviewCell.h */,
+				728573D1240D16A100A4A6DF /* TZPhotoPickerController.h */,
+				728573D2240D16A100A4A6DF /* TZImageCropManager.m */,
+				728573D3240D16A100A4A6DF /* TZImageManager.h */,
+				728573D4240D16A100A4A6DF /* TZAssetCell.m */,
+				728573D5240D16A100A4A6DF /* TZVideoPlayerController.m */,
+				728573D6240D16A100A4A6DF /* TZAssetModel.m */,
+				728573D7240D16A100A4A6DF /* NSBundle+TZImagePicker.m */,
+				728573D8240D16A100A4A6DF /* TZLocationManager.h */,
+				728573D9240D16A100A4A6DF /* TZImagePickerController.h */,
+				728573DA240D16A100A4A6DF /* TZPhotoPreviewController.m */,
+				728573DB240D16A100A4A6DF /* TZImagePickerController.bundle */,
+				728573DC240D16A100A4A6DF /* TZProgressView.m */,
+				728573DD240D16A100A4A6DF /* TZGifPhotoPreviewController.h */,
+				728573DE240D16A100A4A6DF /* TZAssetCell.h */,
+				728573DF240D16A100A4A6DF /* TZImageManager.m */,
+				728573E0240D16A100A4A6DF /* TZImageCropManager.h */,
+				728573E1240D16A100A4A6DF /* TZPhotoPickerController.m */,
+				728573E2240D16A100A4A6DF /* TZPhotoPreviewCell.m */,
+				728573E3240D16A100A4A6DF /* NSBundle+TZImagePicker.h */,
+				728573E4240D16A100A4A6DF /* TZAssetModel.h */,
+				728573E5240D16A100A4A6DF /* TZVideoPlayerController.h */,
+				728573E6240D16A100A4A6DF /* TZPhotoPreviewController.h */,
+				728573E7240D16A100A4A6DF /* TZImagePickerController.m */,
+				728573E8240D16A100A4A6DF /* TZLocationManager.m */,
+				728573E9240D16A100A4A6DF /* TZGifPhotoPreviewController.m */,
+				728573EA240D16A100A4A6DF /* TZProgressView.h */,
+			);
+			path = TZImagePickerController;
+			sourceTree = "<group>";
+		};
+		728573FC240D1D4500A4A6DF /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				728573FD240D1D4500A4A6DF /* GLFolderManager.h */,
+				728573FE240D1D4500A4A6DF /* GLProgressLayer.m */,
+				728573FF240D1D4500A4A6DF /* SrtModel.h */,
+				72857400240D1D4500A4A6DF /* VideoAudioEdit.m */,
+				72857401240D1D4500A4A6DF /* UIImage+buffer.h */,
+				72857402240D1D4500A4A6DF /* AddTextManager.h */,
+				72857403240D1D4500A4A6DF /* GLVideoConstant.h */,
+				72857404240D1D4500A4A6DF /* VideoAudioComposition.h */,
+				72857405240D1D4500A4A6DF /* GLFolderManager.m */,
+				72857406240D1D4500A4A6DF /* GLProgressLayer.h */,
+				72857407240D1D4500A4A6DF /* VideoAudioComposition.m */,
+				72857408240D1D4500A4A6DF /* AddTextManager.m */,
+				72857409240D1D4500A4A6DF /* UIImage+buffer.m */,
+				7285740A240D1D4500A4A6DF /* VideoAudioEdit.h */,
+				7285740B240D1D4500A4A6DF /* SrtModel.m */,
+			);
+			path = Manager;
+			sourceTree = "<group>";
+		};
+		7285740C240D1D4900A4A6DF /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				7285740D240D1D4900A4A6DF /* 4.mp3 */,
+				7285740E240D1D4900A4A6DF /* 1.mp4 */,
+				7285740F240D1D4900A4A6DF /* 1.mp3 */,
+				72857410240D1D4900A4A6DF /* videoImage */,
+				72857420240D1D4900A4A6DF /* 2.mp4 */,
+				72857421240D1D4900A4A6DF /* 2.mp3 */,
+				72857422240D1D4900A4A6DF /* 3.mp3 */,
+				72857423240D1D4900A4A6DF /* 爱在记忆中找你.mp3 */,
+				72857424240D1D4900A4A6DF /* 大王叫我来巡山.mp4 */,
+				72857425240D1D4900A4A6DF /* Kim Taylor-I Am You.mp3 */,
+				72857426240D1D4900A4A6DF /* piano.mp4 */,
+				72857427240D1D4900A4A6DF /* beijing.mp4 */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
+		72857410240D1D4900A4A6DF /* videoImage */ = {
+			isa = PBXGroup;
+			children = (
+				72857411240D1D4900A4A6DF /* 绵阳@2x.png */,
+				72857412240D1D4900A4A6DF /* 老鼠@2x.png */,
+				72857413240D1D4900A4A6DF /* 白兔@2x.png */,
+				72857414240D1D4900A4A6DF /* img9.jpg */,
+				72857415240D1D4900A4A6DF /* img8.jpg */,
+				72857416240D1D4900A4A6DF /* img5.jpg */,
+				72857417240D1D4900A4A6DF /* img4.jpg */,
+				72857418240D1D4900A4A6DF /* img6.jpg */,
+				72857419240D1D4900A4A6DF /* img7.jpg */,
+				7285741A240D1D4900A4A6DF /* img3.jpg */,
+				7285741B240D1D4900A4A6DF /* img2.jpg */,
+				7285741C240D1D4900A4A6DF /* img0.jpg */,
+				7285741D240D1D4900A4A6DF /* img1.jpg */,
+				7285741E240D1D4900A4A6DF /* img11.jpg */,
+				7285741F240D1D4900A4A6DF /* img10.jpg */,
+			);
+			path = videoImage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +497,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72857430240D1D4900A4A6DF /* 1.mp4 in Resources */,
+				72857438240D1D4900A4A6DF /* img4.jpg in Resources */,
+				72857435240D1D4900A4A6DF /* img9.jpg in Resources */,
 				72857396240CF73C00A4A6DF /* LaunchScreen.storyboard in Resources */,
+				728573CE240D14CE00A4A6DF /* 一个人的冬天.mp3 in Resources */,
+				72857447240D1D4900A4A6DF /* piano.mp4 in Resources */,
+				728573F1240D16A100A4A6DF /* TZImagePickerController.bundle in Resources */,
+				72857441240D1D4900A4A6DF /* 2.mp4 in Resources */,
+				72857442240D1D4900A4A6DF /* 2.mp3 in Resources */,
+				72857434240D1D4900A4A6DF /* 白兔@2x.png in Resources */,
+				7285743C240D1D4900A4A6DF /* img2.jpg in Resources */,
+				72857432240D1D4900A4A6DF /* 绵阳@2x.png in Resources */,
+				72857445240D1D4900A4A6DF /* 大王叫我来巡山.mp4 in Resources */,
+				72857431240D1D4900A4A6DF /* 1.mp3 in Resources */,
+				72857448240D1D4900A4A6DF /* beijing.mp4 in Resources */,
+				7285742F240D1D4900A4A6DF /* 4.mp3 in Resources */,
+				72857439240D1D4900A4A6DF /* img6.jpg in Resources */,
+				72857444240D1D4900A4A6DF /* 爱在记忆中找你.mp3 in Resources */,
+				7285743A240D1D4900A4A6DF /* img7.jpg in Resources */,
+				7285743F240D1D4900A4A6DF /* img11.jpg in Resources */,
+				72857433240D1D4900A4A6DF /* 老鼠@2x.png in Resources */,
+				72857440240D1D4900A4A6DF /* img10.jpg in Resources */,
+				7285743B240D1D4900A4A6DF /* img3.jpg in Resources */,
 				72857393240CF73C00A4A6DF /* Assets.xcassets in Resources */,
+				7285743E240D1D4900A4A6DF /* img1.jpg in Resources */,
+				7285743D240D1D4900A4A6DF /* img0.jpg in Resources */,
+				72857437240D1D4900A4A6DF /* img5.jpg in Resources */,
+				72857446240D1D4900A4A6DF /* Kim Taylor-I Am You.mp3 in Resources */,
 				72857391240CF73900A4A6DF /* Main.storyboard in Resources */,
+				72857443240D1D4900A4A6DF /* 3.mp3 in Resources */,
+				72857436240D1D4900A4A6DF /* img8.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,9 +552,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				728573F4240D16A100A4A6DF /* TZPhotoPickerController.m in Sources */,
+				728573C9240D12BB00A4A6DF /* ImagesToVideo.m in Sources */,
+				72857429240D1D4900A4A6DF /* VideoAudioEdit.m in Sources */,
+				728573F3240D16A100A4A6DF /* TZImageManager.m in Sources */,
+				728573F8240D16A100A4A6DF /* TZGifPhotoPreviewController.m in Sources */,
 				7285738E240CF73900A4A6DF /* ViewController.m in Sources */,
+				728573EE240D16A100A4A6DF /* TZAssetModel.m in Sources */,
+				728573EF240D16A100A4A6DF /* NSBundle+TZImagePicker.m in Sources */,
 				72857388240CF73900A4A6DF /* AppDelegate.m in Sources */,
+				728573FB240D16E200A4A6DF /* UIView+Layout.m in Sources */,
+				728573C0240D117600A4A6DF /* UIImage+scaledSize.m in Sources */,
 				72857399240CF73C00A4A6DF /* main.m in Sources */,
+				7285742C240D1D4900A4A6DF /* AddTextManager.m in Sources */,
+				728573F5240D16A100A4A6DF /* TZPhotoPreviewCell.m in Sources */,
+				728573F0240D16A100A4A6DF /* TZPhotoPreviewController.m in Sources */,
+				728573F2240D16A100A4A6DF /* TZProgressView.m in Sources */,
+				728573EB240D16A100A4A6DF /* TZImageCropManager.m in Sources */,
+				7285742E240D1D4900A4A6DF /* SrtModel.m in Sources */,
+				7285742A240D1D4900A4A6DF /* GLFolderManager.m in Sources */,
+				728573EC240D16A100A4A6DF /* TZAssetCell.m in Sources */,
+				7285742D240D1D4900A4A6DF /* UIImage+buffer.m in Sources */,
+				728573F7240D16A100A4A6DF /* TZLocationManager.m in Sources */,
+				72857428240D1D4900A4A6DF /* GLProgressLayer.m in Sources */,
+				728573C3240D11CE00A4A6DF /* MergeVideoWithMusic.m in Sources */,
+				728573F6240D16A100A4A6DF /* TZImagePickerController.m in Sources */,
+				728573ED240D16A100A4A6DF /* TZVideoPlayerController.m in Sources */,
+				7285742B240D1D4900A4A6DF /* VideoAudioComposition.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,6 +750,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8NZL4MFD85;
 				INFOPLIST_FILE = pictureToViedo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -453,6 +768,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8NZL4MFD85;
 				INFOPLIST_FILE = pictureToViedo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
